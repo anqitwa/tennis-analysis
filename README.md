@@ -6,4 +6,4 @@ This project leverages advanced computer vision techniques to analyze tennis pla
 ## Result
 The resulting output video looks like this:
 
-![Screenshot Demo](https://github.com/anqitwa/tennis-analysis/raw/main/output_videos/)
+![Screenshot Demo](https://github.com/anqitwa/tennis-analysis/blob/main/output_videos/screenshot.png)
