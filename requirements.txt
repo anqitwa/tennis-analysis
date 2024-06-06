@@ -1,0 +1,8 @@
+ultralytics
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+jupyter
+roboflow
