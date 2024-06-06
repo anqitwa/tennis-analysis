@@ -18,8 +18,8 @@ Access the trained models here:
 - [Trained Tennis Court Keypoint Model](https://drive.google.com/file/d/1QrTOF1ToQ4plsSZbkBs3zOLkVt3MBlta/view?usp=sharing)
 
 ## Training Resources
-- **Tennis Ball Detector Training:** Explore the intricacies of training the tennis ball detector using YOLO in the notebook: `training/tennis_ball_detector_training.ipynb`.
-- **Tennis Court Keypoint Training:** Dive into the training process for the tennis court keypoint extraction model using PyTorch in the notebook: `training/tennis_court_keypoints_training.ipynb`.
+- **Tennis Ball Detector Training:** Explore the steps of training the tennis ball detector using YOLO in the notebook: `training/tennis_ball_detector_training.ipynb`.
+- **Tennis Court Keypoint Training:** Refer to the training process for the tennis court keypoint extraction model using PyTorch in the notebook: `training/tennis_court_keypoints_training.ipynb`.
 
 ## Requirements
 Ensure the following dependencies are installed to facilitate seamless execution of the project:
